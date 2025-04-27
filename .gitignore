@@ -1,0 +1,31 @@
+# Ignore R session files
+.Rhistory
+.RData
+.Rproj.user/
+.Rproj
+
+# Ignore temporary or cache files
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore data or heavy files if needed
+*.zip
+*.tar.gz
+*.rar
+
+# Ignore Tableau temp files (if any)
+*.hyper
+*.tde
+
+# Ignore other editor temp files
+.vscode/
+.idea/
