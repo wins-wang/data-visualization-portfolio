@@ -20,3 +20,9 @@ An interactive Tableau dashboard allowing exploration of suicide rate trends and
 ## Files
 - `dashboard_screenshot.png`: Dashboard overview screenshot.
 - `dashboard.twbx`: Tableau packaged workbook file.
+
+## Live Demo
+
+You can interact with the dashboard directly via Tableau Public:
+
+👉 [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/shared/NQP2Q9JB3?:display_count=n&:origin=viz_share_link)
